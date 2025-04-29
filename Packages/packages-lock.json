@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.llealloo.audiolink": {
+      "version": "file:com.llealloo.audiolink",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.15.17",
       "depth": 0,
@@ -154,6 +160,12 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "file:jp.lilxyzw.liltoon",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "mu.cluster.cluster-creator-kit": {
       "version": "2.33.0",
