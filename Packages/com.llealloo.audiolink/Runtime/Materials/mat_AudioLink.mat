@@ -28,13 +28,13 @@ Material:
     - _FadeExpFalloff: 0.75
     - _FadeLength: 0.25
     - _Gain: 1
-    - _MediaLoop: 0
+    - _MediaLoop: 1
     - _MediaPlaying: 1
-    - _MediaTime: 0.13618815
-    - _MediaVolume: 0.404
+    - _MediaTime: 0.010481878
+    - _MediaVolume: 0.655
     - _SourceDistance: 30.727812
     - _SourceSpatialBlend: 0
-    - _SourceVolume: 0.404
+    - _SourceVolume: 0.655
     - _ThemeColorMode: 0
     - _Threshold0: 0.45
     - _Threshold1: 0.45
@@ -46,9 +46,9 @@ Material:
     - _X2: 0.5
     - _X3: 0.75
     m_Colors:
-    - _CustomThemeColor0: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    - _CustomThemeColor0: {r: 1, g: 1, b: 0, a: 1}
     - _CustomThemeColor1: {r: 0, g: 0, b: 1, a: 1}
     - _CustomThemeColor2: {r: 1, g: 0, b: 0, a: 1}
     - _CustomThemeColor3: {r: 0, g: 1, b: 0, a: 1}
-    - _SourcePosition: {r: -16.2, g: -4.6, b: 14.5, a: 0}
+    - _SourcePosition: {r: -55.5, g: 17.27, b: 3.7, a: 0}
   m_BuildTextureStacks: []
