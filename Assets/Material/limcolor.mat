@@ -660,11 +660,11 @@ Material:
     - _lilShadowCasterBias: 0
     - _lilToonVersion: 45
     m_Colors:
-    - _AudioLinkDefaultValue: {r: 0, g: 0, b: 2, a: 0.75}
+    - _AudioLinkDefaultValue: {r: 0, g: 0, b: 2, a: 0.642}
     - _AudioLinkLocalMapParams: {r: 120, g: 1, b: 0, a: 0}
     - _AudioLinkMask_ScrollRotate: {r: 0, g: 0, b: 0, a: 0}
     - _AudioLinkStart: {r: 0, g: 0, b: 0, a: 0}
-    - _AudioLinkUVParams: {r: 0.25, g: 0, b: 0, a: 0.125}
+    - _AudioLinkUVParams: {r: 0.25, g: 0, b: 0, a: 0.375}
     - _AudioLinkVertexStart: {r: 0, g: 0, b: 0, a: 0}
     - _AudioLinkVertexStrength: {r: 0, g: 0, b: 0, a: 1}
     - _AudioLinkVertexUVParams: {r: 0.25, g: 0, b: 0, a: 0.125}
