@@ -1,0 +1,15 @@
+Noriben Fireworks（花火パーティクル）
+
+https://noriben.booth.pm/items/1724776
+
+
+2019 12/12 V001 公開
+2020 03/15 V002 n_Fireworks_miniが消えるとき不自然になってたのを修正
+2020 08/01 V003 花火のキラキラ感が増えた。細かいアーティファクトを修正。
+                モバイル環境で動かしたときにマテリアルエラーになるのを修正。
+2022/03/11 V004 Single Pass Stereo (Instanced)レンダリングに対応。フォルダ構成を変更。
+
+
+noriben
+https://twitter.com/noriben327
+https://noriben.booth.pm/
