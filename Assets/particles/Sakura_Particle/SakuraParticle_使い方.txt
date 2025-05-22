@@ -1,0 +1,30 @@
+・桜の花びらを発光させたい
+詳しくは、Boothの解説動画をご覧ください。
+
+Unityメニューから「Window」＞「Package Manager」＞「Post Processing」をインストールしてください。「Hierarchy」で「3D Object」＞「Post-process Volume」を生成してください。「Post-process Volume」の「Inspector」＞「Post-process Volume」＞「Profie」＞「New」で「Post-process Volume Profie」を生成してください。「Post-process Volume」の「Layer」を21番の「PostProcessing Layer」にしてください。「Post-process Volume」の「Is Global」にチェックをいれてください。「Add effect...」＞「Unity」＞「Bloom」を追加してください。「Bloom」から「Intensity」、「Threshold」、「Soft Knee」、「Diffusion」にチェックを入れてください。「Intensity」の数値を"1"にしてください。ここからパーティクルのマテリアルを変更します。「Sakura_ _Particle」の「Inspector」から「Sakura_material」の「Emission」にチェックを入れてください。「Emission」のカラー選択から「Intensity」の数値を大きくすることで、花びらの発光が強くなります。※Bloomによる発光は、Unity再生中にのみ見ることができます。
+
+
+・桜の花びらの存在時間を変えたい
+「Start Lifetime」の値を大きくすると、桜の花びらの存在時間が長くなります。反映されなければシーンビューから「Sakura_ _Particle」を「Restart」してください。
+
+
+
+・桜の花びらの大きさを変えたい
+「Start Size」の値を変えてください。デフォルトの0.25-0.1は、0.25から0.1の間の大きさにするという意味です。反映されなければシーンビューから「Sakura_ _Particle」を「Restart」してください。
+
+
+・桜の花びらの落ちるスピードを変えたい
+「Gravity Modifier」の値を大きくすると、桜の花びらの落ちるスピードが速くなります。デフォルトの0.01-0.1は、0.01から0.1の間の重力にするという意味です。反映されなければシーンビューから「Sakura_ _Particle」を「Restart」してください。
+
+
+
+・桜の花びらの量を変えたい
+「Emission」>「Rate over Time」の大きくすると散る桜の花びらの量が多くなります。デフォルトの30-50は、１秒ごとに30から50の桜の花びらを出現させるという意味です。反映されなければシーンビューから「Sakura_ _Particle」を「Restart」してください。
+
+
+・桜の花びらの発生するエリアの形を変えたい
+「Shape」>「Shape」で任意の形に変更できます。反映されなければシーンビューから「Sakura_ _Particle」を「Restart」してください。
+
+
+・桜の花びらの降る範囲を変えたい
+「Shape」>「Scale」の値を変えてください。反映されなければシーンビューから「Sakura_ _Particle」を「Restart」してください。

@@ -1,0 +1,55 @@
+
+
+以下、Hotaru/Fairy/Spirit Particleの光の粒を「光粒子」とします。
+
+
+
+光粒子の光を反映させたい場合は、必ず、「Fairy Spirit Particle」or「Hotaru Particle」の子供の「Particle Light」を、「Fairy Spirit Particle」or「Hotaru Particle」の「Inspector」>「Light」>「Light」にドラッグ&ドロップしてください。
+
+
+・光粒子の大きさを変えたい
+「Start Size」の値を変えてください。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の色を変えたい
+「Start Color」から任意の色に変更させてください。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の数を変えたい
+「Emission」>「Rate over Time」の値を変更させてください。「Rate over Time」は、一秒間にどのくらいの光粒子を発生させるかを設定できます。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の発生するエリアの形を変えたい
+「Shape」>「Shape」から任意の形を選んでください。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の発生するエリアの大きさを変えたい
+「Shape」>「Scale」の値を変えてください。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の速度を変えたい
+「Noise」>「Strength」の値を大きくすると、光粒子の速度が大きくなります。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の当たり判定をなくしたい
+「Collision」のチェックマークをオフにしてください。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の当たり判定を特定のオブジェクトにしたい
+「Collision」>「Type」を「Planes」にして、当たり判定をつけたいオブジェクトを「Collision」>「Type」のしたの枠にドラッグ&ドロップしてください。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の光の強さを変えたい
+「Light」>「Intensity Multiplier」の値を変えてください。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の光の範囲を変えたい
+「Light」>「Range Multiplier」の値を変えてください。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の軌跡の長さを変えたい
+「Trails」>「Lifetime」の値を大きくすると、雨の軌跡が長くなります。反映されなければシーンビューからParticlesを「Restart」してください。
+
+
+・光粒子の軌跡の太さを変えたい
+「Trails」>「Width over Trail」の値を大きくすると、雨の軌跡が太くなります。反映されなければシーンビューからParticlesを「Restart」してください。
