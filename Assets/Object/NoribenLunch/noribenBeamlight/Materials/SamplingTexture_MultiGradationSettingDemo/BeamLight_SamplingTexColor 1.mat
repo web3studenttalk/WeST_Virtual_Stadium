@@ -115,7 +115,7 @@ Material:
     - _GradHeight: 0
     - _GradOn: 0
     - _GradPower: 1.5
-    - _Intensity: 6.7
+    - _Intensity: 10
     - _LightIndex: 1
     - _Metallic: 0
     - _Mode: 0
@@ -124,7 +124,7 @@ Material:
     - _NoisePower: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RimPower: 4.4
+    - _RimPower: 0.01
     - _Rotate: 0
     - _SamplePosX: 0
     - _SamplePosY: 0.5
